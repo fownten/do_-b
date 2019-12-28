@@ -1,3 +1,8 @@
+PREREQUISITES:
+--------------
+pybluez must be installed to run the tester.py program
+for turning the led on and of
+
 PARTS LIST:
 -----------
 - Arduino
