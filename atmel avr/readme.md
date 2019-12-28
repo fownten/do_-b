@@ -1,4 +1,5 @@
 __!! You need to know wich COM port (windows), or tty (linux)__
+
 __!! your arduino is hooked on__
 
 ### Using avrdude to transfer code over usb to arduino
