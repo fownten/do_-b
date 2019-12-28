@@ -1,9 +1,9 @@
 PARTS LIST:
 -----------
-- Arduino
-- led
-- 220 Ohm resistor
-- HC-05 Bluetooth module
+.Arduino
+.led
+.220 Ohm resistor
+.HC-05 Bluetooth module
 
 WIRING:
 -------
